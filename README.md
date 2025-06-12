@@ -79,8 +79,8 @@ Use this collection to test all the routes easily:
 
 ## 🌐 Live Deployment
 
-🟢 Live URL: _Coming Soon_  
-_(Deploy on Render, Cyclic, Vercel, or Railway for public access)_
+🟢 Live URL: 
+[Deployed on Render public access(You have to Acces from base end points for dedicated req)](https://user-auth-app-lvez.onrender.com/)
 
 ---
 
@@ -89,7 +89,7 @@ _(Deploy on Render, Cyclic, Vercel, or Railway for public access)_
 ### 📍 Base URL
 
 ```
-http://localhost:5000/api/v1
+https://user-auth-app-lvez.onrender.com/api/v1
 ```
 
 ---
